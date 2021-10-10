@@ -1,0 +1,12 @@
+{
+    "name": "Dummy Tab",
+    "version": "1.0",
+    "description": "Create any dummy tab with a custom title and empty content.",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": {
+            "192": "assets/icon192.png"
+        },
+        "default_popup": "popup.html"
+    }
+}
